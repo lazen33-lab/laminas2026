@@ -1,0 +1,28 @@
+🏆 LAMINAS 2026 - MANUAL DE USO 🏆
+
+¡Hola! Esta app te ayudará a llevar el control de tu álbum del Mundial 2026 desde tu celular.
+
+✅ ¿QUÉ PUEDO HACER?
+- Marcar las láminas que ya tienes.
+- Anotar cuántas repetidas tienes para cambiar.
+- Ver rápidamente qué números te faltan.
+
+🚀 ¿CÓMO SE USA?
+1. Toca el número de una lámina para marcarla como "obtenida".
+2. Si la tienes repetida, usa el botón "+" para sumar.
+3. Todo se guarda solo, no hay que darle a guardar.
+
+📱 ¿CÓMO INSTALARLA EN EL CELULAR? (Muy recomendado)
+Para que aparezca el icono de la copa en tu menú como una app normal:
+
+🤖 EN ANDROID (Chrome):
+1. Abre el link de la app.
+2. Toca los 3 puntitos de arriba a la derecha.
+3. Selecciona "Instalar aplicación" o "Agregar a pantalla de inicio".
+
+🍎 EN IPHONE (Safari):
+1. Abre el link de la app.
+2. Toca el botón de "Compartir" (el cuadradito con flecha abajo al centro).
+3. Selecciona "Agregar a inicio".
+
+¡Y listo! Ya tendrás tu app de "laminas2026" con el icono de la copa lista para usar. ⚽️🏆
